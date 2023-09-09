@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sa-web-dev
+- 👋 Hi, I’m  Samuel Aldama @sa-web-dev
 - 👀 I’m interested in Machine Learning and creating things that are useful.
 - 🌱 I’m currently learning the Full Stack and will be submitting my assignments as well as personal projects on this Git.
   
